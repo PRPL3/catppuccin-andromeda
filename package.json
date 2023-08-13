@@ -1,7 +1,7 @@
 {
   "name": "catppuccin-andromeda",
   "displayName": "catppuccin-andromeda",
-  "description": "Catppuccin Andromeda",
+  "description": "Catppuccin palette with Andromeda syntax colors",
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.81.0"
