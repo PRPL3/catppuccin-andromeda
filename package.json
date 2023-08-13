@@ -1,0 +1,21 @@
+{
+  "name": "catppuccin-andromeda",
+  "displayName": "catppuccin-andromeda",
+  "description": "Catppuccin Andromeda",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Catppuccin Andromeda",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Catppuccin Andromeda-color-theme.json"
+      }
+    ]
+  }
+}
