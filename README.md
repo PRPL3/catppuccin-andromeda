@@ -1,6 +1,6 @@
 # Catppuccin Andromeda
 
-This theme incorporates the [Catpuccin](https://github.com/catppuccin/catppuccin) palette specifically the Mocha + Lavender variant while using the [Andromeda](https://github.com/EliverLara/Andromeda) syntax highlighting.
+This theme incorporates the [Catppuccin](https://github.com/catppuccin/catppuccin) palette specifically the Mocha + Lavender variant while using the [Andromeda](https://github.com/EliverLara/Andromeda) syntax highlighting.
 
 Open to feedback and fixes!
 
