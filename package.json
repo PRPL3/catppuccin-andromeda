@@ -2,7 +2,11 @@
   "name": "catppuccin-andromeda",
   "displayName": "catppuccin-andromeda",
   "description": "Catppuccin palette with Andromeda syntax colors",
-  "version": "0.0.2",
+  "version": "0.0.3",
+  "publisher": "Prple",
+  "repository": {
+    "url": "https://github.com/PRPL3/catppuccin-andromeda"
+  },
   "engines": {
     "vscode": "^1.81.0"
   },
